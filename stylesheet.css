@@ -1,6 +1,13 @@
 html, body {
 	height:100%;
 	width:100%;
+	background:#660000;
+}
+
+h1 {
+	text-align:center;
+	color:#c8c8c8;
+	font-family:"Avenir Black"
 }
 
 .col {
@@ -9,7 +16,7 @@ html, body {
 	height:100%;
 	float:left;
 	margin:0%;
-	background:#f0f0f0;
+	text-align:center;
 }
 
 img {
@@ -19,6 +26,6 @@ img {
 	left:0;
 	right:0;
 	bottom:0;
-	width:150px;
-	height:150px;
+	width:30%;
+	height:auto;
 }
